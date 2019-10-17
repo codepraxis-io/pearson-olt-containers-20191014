@@ -1,1 +1,1 @@
-Docker, Docker Compose and Kubernetes examples
+docker and docker-compose exercises
